@@ -54,7 +54,7 @@ Ensure you have Python 3.9+ installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/eigenfaces-from-scratch.git
+   git clone https://github.com/ameernsr/eigenfaces-from-scratch.git
    cd eigenfaces-from-scratch
    ```
 
