@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data cache
+scikit_learn_data/
+
+# IDEs / OS
+.DS_Store
+.vscode/
+.idea/
+venv/
+.env
